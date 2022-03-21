@@ -1,20 +1,8 @@
-Calculator
+Create a Calculator Java Based program  and add,subtract ,multiply and dividee through 4 different functions
 
 int a,b;
 
-public void add(int a ,int b)
-{
 
-int c=a+b;
-
-}
-
-public void sub(int a ,int b)
-{
-
-int c=a-b;
-
-}
 
 public void mul(int a ,int b)
 {
@@ -24,7 +12,7 @@ int c=a*b;
 }
 
 
-CalcuatorTest
-
+After that create a CalcuatorTest which will test the Calculator class 4 developed methods.
+that takes 2 numbers through scanner or command line arguments
 you can input these 2 numers from command line arguments or through scanner
 
